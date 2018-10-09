@@ -1,6 +1,6 @@
 <?php
 
-namespace Rny\ZhConverter;
+namespace Zgn\ZhConverter;
  
 class ZhConverterTest extends \PHPUnit_Framework_TestCase {
  
