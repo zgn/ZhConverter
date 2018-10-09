@@ -1,12 +1,12 @@
 {
-    "name": "rny/zhconverter",
+    "name": "zgn/zhconverter",
     "type": "library",
     "description": "convert between Simplified Chinese(zh-Hans) and Traditional Chinese(zh-Hant)",
     "license": "MIT",
     "keywords": ["chinese"],
     "authors": [
         {
-            "name": "RNY"
+            "name": "zgn"
         }
     ],
     "require": {},
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rny\\ZhConverter\\": "src"
+            "zgn\\ZhConverter\\": "src"
         }
     },
     "scripts": {

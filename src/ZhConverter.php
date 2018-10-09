@@ -1,6 +1,6 @@
 <?php
 
-namespace Rny\ZhConverter;
+namespace Zgn\ZhConverter;
 
 class ZhConverter {
 
